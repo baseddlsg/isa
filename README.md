@@ -1,1 +1,26 @@
 # isa
+# Imagination Synchronization for our new Aeon
+
+The human imagination is a powerful tool that can be harnessed to create, explore and transcend our reality. The practice of meditation has been used for millennia as a way to quell the mind and achieve a state of inner peace. In the modern age, we have access to technology that can enhance and augment these practices, creating new ways to explore and connect with our inner selves.
+
+This white paper presents a project that combines meditative practices, imagination and technology to create a new paradigm of meditation for the modern age. Our goal is to create a series of virtual worlds that users can explore and create as a form of meditative practice. These worlds will be surreal, mind-bending and otherworldly, breaking us free from the mundanity of the world and encouraging them to exercise their imagination. We have become so accustomed to the routine of everyday life that we've developed words to describe experiences that break away from it. These words, such as "absurd" and "surreal," represent situations that challenge our understanding of the ordinary and shock our minds out of their state of complacency.
+
+The idea behind this is that by allowing the mind to process chaotic and new situations, it can form new connections and help the mind come up with new ideas. In a similar vein, the concept of technomancy posits that technology can be used as a tool for personal growth and development. This project aims to harness the power of both of these ideologies by creating virtual worlds that are designed to be both chaotic and technologically advanced. By providing users with an immersive experience that is both stimulating and calming, we aim to create new types of experiences that prioritize creativity.
+
+We are exploring the potential of creating new mental schemas through the manipulation of sensory stimuli, such as pairing chaotic elements with soothing color palettes or startling palettes with relaxing music.  The community plays a vital role in this project, as we come together to experiment with the use of technology to expand our modes of creative thinking. This is an ongoing experiment that aims to push the boundaries of what is possible and discover new ways of thinking, with the goal of expanding our minds and consciousness
+
+. The act of creation itself is meditative, providing users with a sense of accomplishment and a deeper connection to their inner selves. The use of technology in this project allows us to create a new and unique way of meditating, that is accessible to people of all ages and backgrounds. It allows us to tap into the power of our imagination and transcend our reality in a new way.
+
+
+The modern world presents numerous challenges to the practice of traditional meditation. The fast-paced nature of daily life, with its demands of work and family responsibilities, can make it difficult for individuals to find the time and space for stillness and reflection. Additionally, the constant use of technology and social media has impacted individuals' attention spans, making it harder to focus and stay present in the moment.
+
+
+To address these challenges, our project is creating virtual worlds that can be accessed via truly immersive technology like VR, and easily-accessible technologies like desktop and mobile. For developers, these projects can be accessed via Unreal Engine, which is a free game engine that has an extensive library of tutorials.
+
+This project aims to create a new paradigm of meditation and imagination through the use of technology. Developers are encouraged to approach this project with care and love, and to create something that represents their unique perspectives. These virtual worlds should be thought of as a library of the human mind, free from limitations and solely for the purpose of art. Players and developers alike are encouraged to take these worlds and make them their own, contributing to the upliftment of the human mind and imagination.
+
+Please write about your experiences, please develop new use cases for these worlds, please create more ambitious and chaotic worlds. Let’s make this a transformative exercise of using new technology to contribute to global consciousness. Let’s create a new aesthetic and mindset that is uniquely human, one that allows for relaxation, complexity, and perplexity. These virtual worlds will allow for new forms of thinking, creativity, and pondering on things that may not make sense to the rational mind. By creating and interacting within these strange worlds, we hope to start a movement towards a new age where creativity will rule the mind of humanity.
+
+
+In conclusion, this project represents a new way of thinking about meditation and the human imagination. It combines the power of imagination, technology, and the embracing of chaos to create a new paradigm of meditation that is accessible to modern people and helps to contribute to personal growth. We invite developers and other interested parties to join us in this journey, to create surreal worlds that represent the imagination of humanity. Together, we can create something truly revolutionary that can benefit people from all walks of life.
+
